@@ -10,7 +10,7 @@
 	<name>Aplicacion uno DATOSALUMNOS</name>
 	
 	<description>
-		Aplicacion que muestra los DATOS dek alumno
+		Aplicacion que muestra los DATOS del alumno
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
@@ -26,5 +26,5 @@
 
 	<!-- Colocar icono app -->
 	
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/mdpi.png" />
 </widget> 
